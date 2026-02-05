@@ -1,0 +1,15 @@
+langchain 
+langchain-community
+langchain-openai
+langchain-experiments
+langchain-core
+PyPDF2
+python-dotenv
+faiss-cpu
+chromadb
+langchain-huggingface
+numpy 
+pandas
+streamlit
+langchain-google-genai
+langchain-google-community
